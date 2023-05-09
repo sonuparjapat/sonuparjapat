@@ -6,11 +6,11 @@
 
 - 👨‍💻 All of my projects are available at [https://sonuparjapat.github.io/](https://sonuparjapat.github.io/)
 
-- 💬 Ask me about **React ,Redux ,JavaScript ,HTML ,CSS**
+- 💬 Ask me about **React ,Redux ,JavaScript ,HTML ,CSS ,Mongodb ,Express ,Node.js**
 
 - 📫 How to reach me **sonu992000parjapat@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/u/0/folders/1t1ILKuKnikuFK3BDL-wtadyiTrHD22-z]
+- 📄 Know about my experiences [https://drive.google.com/file/d/105fE_qQa520vtTCgPx-qGTd2RmNE5lqL/view]
 
 - ⚡ Fun fact **I think I am funny because I don't stop until I finish my job**
 
