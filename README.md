@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **sonu992000parjapat@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1YiL0dE-iwYx6TZDwH4NK57XBG0L9_RMr/view?usp=share_link](https://drive.google.com/file/d/1YiL0dE-iwYx6TZDwH4NK57XBG0L9_RMr/view?usp=share_link)
+- 📄 Know about my experiences [https://drive.google.com/drive/u/0/folders/1t1ILKuKnikuFK3BDL-wtadyiTrHD22-z]
 
 - ⚡ Fun fact **I think I am funny because I don't stop until I finish my job**
 
