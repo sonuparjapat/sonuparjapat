@@ -1,6 +1,6 @@
 <img width=100% src="https://github.com/sonuparjapat/sonuparjapat/assets/115461488/7909af79-f156-4b66-88f6-0d07e4aa5916"/>
 <h1 align="center">Hi 👋, I'm Sonu Parjapat</h1>
-<h3 align="center">A Skilled Full Stack Web developer and quick learner having 1300+ coding
+<h3 align="center">A Skilled Full Stack Web developer and quick learner having 1800+ coding
 hours of experience. Proficient in developing modern web applications
 using JavaScript, React, Node.js, and MongoDB. Looking forward to
 making a significant contribution to an organization through dedicated
